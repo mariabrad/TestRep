@@ -58,7 +58,7 @@ public class Orders extends javax.swing.JFrame {
         getContentPane().setLayout(null);
 
         jLabel1.setFont(new java.awt.Font("Savoye LET", 0, 36)); // NOI18N
-        jLabel1.setIcon(new javax.swing.ImageIcon("/Users/mariabrad/Anul II/SEM II/FIS/Log/Log/Images/add_buy_cart_ecommerce_online_shopping_store-512.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("/resources/add_buy_cart_ecommerce_online_shopping_store-512.png")); // NOI18N
         jLabel1.setText("My Orders");
         getContentPane().add(jLabel1);
         jLabel1.setBounds(337, 41, 144, 42);

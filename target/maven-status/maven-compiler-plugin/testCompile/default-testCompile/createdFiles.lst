@@ -1,0 +1,9 @@
+test/java/testLogin/PasswordTest.class
+testProducts/TestProduct.class
+testOrders/testOrdersConnection.class
+testLogin/OrderNumberTest.class
+testProducts/testProducts.class
+testProducts/CartTest.class
+test/java/testProducts/TestTotal.class
+testLogin/RoleTest.class
+test/java/testLogin/testLogin.class

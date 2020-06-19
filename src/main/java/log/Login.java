@@ -78,7 +78,7 @@ public class Login extends javax.swing.JFrame {
         getContentPane().add(jLabel4);
         jLabel4.setBounds(80, 0, 700, 60);
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("/Users/mariabrad/Anul II/SEM II/FIS/Log/Log/Images/colorful-capsule-pills-on-white-background-pharmaceutical-artinun-prekmoung.jpg")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon("/colorful-capsule-pills-on-white-background-pharmaceutical-artinun-prekmoung.jpg")); // NOI18N
         jLabel3.setPreferredSize(new java.awt.Dimension(800, 400));
         getContentPane().add(jLabel3);
         jLabel3.setBounds(0, 0, 800, 400);

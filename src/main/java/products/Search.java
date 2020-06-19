@@ -81,7 +81,7 @@ public class Search extends javax.swing.JFrame {
         getContentPane().add(jButton2);
         jButton2.setBounds(700, 170, 70, 50);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("/Users/mariabrad/Anul II/SEM II/FIS/Log/Log/Images/back2.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("src/main/resources/back2.jpg")); // NOI18N
         getContentPane().add(jLabel2);
         jLabel2.setBounds(0, 0, 810, 400);
 

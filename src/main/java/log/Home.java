@@ -54,12 +54,12 @@ public class Home extends javax.swing.JFrame {
         getContentPane().setLayout(null);
 
         jLabel1.setFont(new java.awt.Font("Savoye LET", 0, 24)); // NOI18N
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/e881bba87734db35285d04ea1ddec35f - Copy.jpg")));         jLabel1.setText("Customer's Homepage");
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("src/main/resources//e881bba87734db35285d04ea1ddec35f - Copy.jpg")));         jLabel1.setText("Customer's Homepage");
         getContentPane().add(jLabel1);
         jLabel1.setBounds(50, 0, 282, 150);
 
         jButton1.setFont(new java.awt.Font("Savoye LET", 2, 24)); // NOI18N
-        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/shopping-cart-icon-png-favpng-e5DiMUYLNYaTjdsibphFUCAxC.png"))); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("src/main/resources//shopping-cart-icon-png-favpng-e5DiMUYLNYaTjdsibphFUCAxC.png"))); // NOI18N
         jButton1.setText("Checkout");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -89,7 +89,7 @@ public class Home extends javax.swing.JFrame {
         getContentPane().add(jButton3);
         jButton3.setBounds(460, 220, 136, 37);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("/Users/mariabrad/Anul II/SEM II/FIS/Log/Log/Images/back2.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("src/main/resources//back2.jpg")); // NOI18N
         jLabel2.setText("jLabel2");
         jLabel2.setMaximumSize(new java.awt.Dimension(800, 400));
         jLabel2.setMinimumSize(new java.awt.Dimension(800, 400));

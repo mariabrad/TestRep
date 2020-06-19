@@ -146,7 +146,7 @@ public class Orders extends javax.swing.JFrame {
         getContentPane().add(jButton1);
         jButton1.setBounds(22, 5, 75, 30);
 
-        jLabel5.setIcon(new javax.swing.ImageIcon("/Users/mariabrad/Anul II/SEM II/FIS/Log/Log/Images/back2.jpg")); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon("src/main/resources/back2.jpg")); // NOI18N
         jLabel5.setText("jLabel5");
         getContentPane().add(jLabel5);
         jLabel5.setBounds(0, 0, 810, 410);

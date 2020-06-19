@@ -128,7 +128,7 @@ public class Checkout extends javax.swing.JFrame {
         getContentPane().add(jTextField2);
         jTextField2.setBounds(278, 197, 222, 59);
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("/Users/mariabrad/Anul II/SEM II/FIS/Log/Log/Images/back2.jpg")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon("src/main/resources/back2.jpg")); // NOI18N
         getContentPane().add(jLabel4);
         jLabel4.setBounds(0, 0, 810, 400);
 

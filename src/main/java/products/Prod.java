@@ -159,7 +159,7 @@ public class Prod extends javax.swing.JFrame {
         jButton2.setBounds(494, 315, 118, 37);
 
         jLabel6.setFont(new java.awt.Font("Savoye LET", 0, 24)); // NOI18N
-        jLabel6.setIcon(new javax.swing.ImageIcon("/Users/mariabrad/Anul II/SEM II/FIS/Log/Log/Images/back2.jpg")); // NOI18N
+        jLabel6.setIcon(new javax.swing.ImageIcon("src/main/resources/back2.jpg")); // NOI18N
         getContentPane().add(jLabel6);
         jLabel6.setBounds(0, 0, 810, 410);
 

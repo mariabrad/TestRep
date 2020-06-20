@@ -57,12 +57,12 @@ public class Search extends javax.swing.JFrame {
         getContentPane().add(jTextField1);
         jTextField1.setBounds(90, 170, 606, 52);
 
-        jLabel1.setFont(new java.awt.Font("Savoye LET", 0, 36)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Vivaldi", 0, 20)); // NOI18N
         jLabel1.setText("Search a product by name/substance");
         getContentPane().add(jLabel1);
         jLabel1.setBounds(220, 80, 390, 82);
 
-        jButton1.setFont(new java.awt.Font("Savoye LET", 0, 24)); // NOI18N
+        jButton1.setFont(new java.awt.Font("Vivaldi", 0, 15)); // NOI18N
         jButton1.setText("Done");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -81,7 +81,7 @@ public class Search extends javax.swing.JFrame {
         getContentPane().add(jButton2);
         jButton2.setBounds(700, 170, 70, 50);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("src/main/resources/back2.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(Search.class.getResource("/back2.jpg"))); // NOI18N
         getContentPane().add(jLabel2);
         jLabel2.setBounds(0, 0, 810, 400);
 
